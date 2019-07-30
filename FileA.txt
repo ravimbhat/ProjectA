@@ -1,0 +1,2 @@
+Added a new file. 
+This file contains 2 lines
